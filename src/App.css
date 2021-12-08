@@ -1,5 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
 .App {
+  width: 1200px;
+  background-color: #ccc;
   text-align: center;
+  height: 100vh;
+  margin: 0 auto;
 }
 
 .App-logo {
